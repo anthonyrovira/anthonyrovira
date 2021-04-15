@@ -4,7 +4,7 @@
    <h2 align="center">Hi 👋! I am Anthony Rovira 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I am a <strong>Web & Mobile App Developer</strong></p>
+<p align="center">I am a <strong>Web & Mobile App Developer</strong> available for a new adventure !</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/anthonyrovira/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/62673975/114835900-59c97500-9dd2-11eb-82dd-17377b8ef7b0.png" alt="Anthony Rovira LinkedIn Profile" height="34px" width="34px" />
