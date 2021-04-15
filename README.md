@@ -1,5 +1,3 @@
-<img align="center" src="https://user-images.githubusercontent.com/62673975/114726352-9bf4a700-9d3d-11eb-834b-fa4f14a72d48.png" height="42px" width="42px" /><span> 🇪🇳</span> 
-
 <p align="center" width="300">
    <h2 align="center">Hi 👋! I am Anthony Rovira 👨🏻‍💻</h3>
 </p>
