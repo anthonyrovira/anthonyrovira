@@ -1,11 +1,12 @@
 <p align="center" width="300">
-   <h2 align="center">Hi 👋! I am Anthony Rovira 👨🏻‍💻</h3>
+   <h2 align="center">Hi there 👋! I am Anthony Rovira 👨🏻‍💻</h2>
 </p>
 
-<p align="center">I am a <strong>Web & Mobile App Developer</strong> available for a new adventure !</p>
+<p align="center">A passionate  <strong>Web & Mobile App Developer</strong> available for a new adventure !</p>
+
 <p align="center">
    <a href="https://www.linkedin.com/in/anthonyrovira/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://user-images.githubusercontent.com/62673975/114835900-59c97500-9dd2-11eb-82dd-17377b8ef7b0.png" alt="Anthony Rovira LinkedIn Profile" height="34px" width="34px" />
+    <img align="center" src="https://user-images.githubusercontent.com/62673975/114835900-59c97500-9dd2-11eb-82dd-17377b8ef7b0.png" alt="Anthony Rovira LinkedIn Profile" height="34px" width="34px"/>
   </a>
   <a href="mailto:anthonyrov@gmail.com" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/62673975/114836022-7f567e80-9dd2-11eb-9572-45951d48775a.png" alt="Anthony Rovira Email address" height="34px" width="34px" />
@@ -14,13 +15,17 @@
     <img align="center" src="https://user-images.githubusercontent.com/62673975/114836062-8b424080-9dd2-11eb-86d7-11cd2cece883.png" alt="Anthony Rovira Twitter Profile" height="34px" width="34px" />
   </a>
 </p>
+
 <p align="center">
-  <p align="center">👇 For further information, check out my portofolio made using Next.js 👇</p>
+  <p align="center">👇 For further information, check out my portfolio made using Next.js 👇</p>
   <p align="center">
     <a href="https://anthonyrovira.netlify.app/" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg" alt="Anthony Rovira Portofolio" height="42px" width="42px" />
     </a>
   </p>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyrovira&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyrovira" /> </p>
-<p align="left"> <a href="https://twitter.com/anthonyrovirajs" target="blank"><img src="https://img.shields.io/twitter/follow/anthonyrovirajs?logo=twitter&style=for-the-badge" alt="anthonyrovirajs" /></a> </p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anthonyrovira&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyrovira" />
+  <img src="https://img.shields.io/github/followers/anthonyrovira" />
+</p>
