@@ -19,9 +19,7 @@
 <p align="center">
   <p align="center">👇 For further information, check out my portfolio made using Next.js 👇</p>
   <p align="center">
-    <a href="https://anthonyrovira.netlify.app/" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg" alt="Anthony Rovira Portofolio" height="42px" width="42px" />
-    </a>
+   Coming very soon, stay tuned !
   </p>
 </p>
 
