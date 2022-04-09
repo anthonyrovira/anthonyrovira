@@ -2,7 +2,7 @@
    <h2 align="center">Hi there 👋! I am Anthony Rovira 👨🏻‍💻</h2>
 </p>
 
-<p align="center">A passionate  <strong>Web & Mobile App Developer</strong> available for a new adventure !</p>
+<p align="center">A passionate  <strong>Web & Mobile App Developer</strong> currently working in <a href="https://linxea.com/" target="blank">Linxea</a></p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/anthonyrovira/" target="blank" style='margin-right:4px'>
@@ -14,13 +14,6 @@
   <a href="https://twitter.com/anthonyrovirajs" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/62673975/114836062-8b424080-9dd2-11eb-86d7-11cd2cece883.png" alt="Anthony Rovira Twitter Profile" height="34px" width="34px" />
   </a>
-</p>
-
-<p align="center">
-  <p align="center">👇 For further information, check out my portfolio made using Next.js 👇</p>
-  <p align="center">
-   Coming very soon, stay tuned !
-  </p>
 </p>
 
 <p align="right">
