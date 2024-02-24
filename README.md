@@ -2,7 +2,7 @@
    <h2 align="center">Hi there 👋! I am Anthony Rovira 👨🏻‍💻</h2>
 </p>
 
-<p align="center">A passionate  <strong>Web & Mobile App Developer</strong> currently working in <a href="https://linxea.com/" target="blank">Linxea</a></p>
+<p align="center">A passionate  <strong>Web & Mobile App Developer</strong></p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/anthonyrovira/" target="blank" style='margin-right:4px'>
