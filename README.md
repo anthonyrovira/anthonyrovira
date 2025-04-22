@@ -16,6 +16,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyrovira&layout=compact&theme=dark"/>
+</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=anthonyrovira&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyrovira" />
   <img src="https://img.shields.io/github/followers/anthonyrovira" />
